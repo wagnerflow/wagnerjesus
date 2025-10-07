@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🛠  Atualmente desenvolvendo
 Projetos pessoais de automação e análise de dados, voltados para redistribuição de estoque e otimização de cobertura, utilizando Python, SQL e Power BI.
 
