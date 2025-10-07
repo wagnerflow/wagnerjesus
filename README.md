@@ -15,6 +15,7 @@ Modelagem de dados, design de aplicativos em Streamlit e algoritmos de otimizaç
 Supply Chain Analytics, consultas SQL, criação de dashboards e automação de processos com Python.
 
 ⚙️ Fato curioso
+
 Sou obcecado por eliminar tarefas repetitivas se posso automatizar, automatizo. A eficiência é minha forma de lazer.
 
 
