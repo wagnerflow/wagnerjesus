@@ -1,70 +1,70 @@
 <!-- ───────────────────────────────────────────── -->
-<!-- 🎨 DARK DEV ELEGANCE THEME - by Wagner Jesus -->
+<!-- 🌙 README DARK DEV ELEGANCE - WAGNER JESUS -->
 <!-- ───────────────────────────────────────────── -->
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:C4A484&height=150&section=header&text=WAGNER%20JESUS%20☕&fontColor=C4A484&fontAlignY=35&fontSize=45&desc=Supply%20Chain%20Analytics%20|%20Data%20Automation%20|%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:C4A484&height=160&section=header&text=WAGNER%20JESUS%20☕&fontColor=C4A484&fontAlignY=35&fontSize=45&desc=Supply%20Chain%20Analytics%20|%20Gestão%20de%20Estoques%20|%20Automação%20de%20Processos&descAlignY=60&descAlign=50" />
 </p>
 
 ---
 
-<h3 align="center">👋 Hey there! Welcome to my space.</h3>
-<h4 align="center">Turning Supply Chain data into intelligent, automated decisions ⚙️</h4>
-
----
-
-### 🧠 About Me
-> 💡 Data-driven professional specialized in **Supply Chain Analytics, Inventory Optimization, and Process Automation**.  
-> 📦 I build **Python and SQL pipelines**, interactive dashboards, and ETL processes for operational intelligence.  
-> ☕ Passionate about connecting **business logic + data storytelling** for measurable results.  
-
-🔹 Currently developing **Coffee Analytics Dashboard** (ETL + Streamlit + Storytelling).  
-🔹 Exploring **machine learning applications** in demand forecasting and inventory balance.  
-🔹 Background in **logistics, retail operations, and supply chain performance.**  
-🔹 Always learning: Python | SQL | Power BI | Streamlit | Optimization.
-
----
-
-### ⚙️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,sqlite,powerbi,excel,streamlit,vscode,github,git" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C4A484&center=true&vCenter=true&width=600&lines=Olá!+Sou+Wagner+Jesus;Analista+de+Dados+em+Supply+Chain;Python+•+SQL+•+Power+BI+•+Streamlit;Transformando+dados+em+decisões+inteligentes."/>
 </p>
 
 ---
 
-### 📊 Analytics & Projects Showcase
-| 🚀 Project | 🧩 Description | 🧠 Stack |
-|-------------|----------------|-----------|
-| [**Coffee Analytics Dashboard**](https://github.com/wagnerflow/coffee-analytics) | ETL + Streamlit dashboard analyzing coffee sales trends | Python · Streamlit · Pandas · Matplotlib |
-| [**Dashboard RH Power BI**](https://github.com/wagnerflow/dashboard-rh-powerbi) | HR KPIs & analytics dashboard (DAX + Power Query) | Power BI · Excel · DAX |
-| *(Coming Soon)* Inventory Redistribution System | Algorithmic model for balancing stock between branches | Python · SQLite · Optimization |
+### 🧠 Sobre mim
+> 🎯 Apaixonado por **dados, processos e tecnologia**, atuo na interseção entre **Supply Chain e Análise de Dados**, desenvolvendo soluções que unem lógica, estatística e automação.  
+> 💡 Tenho experiência prática em **gestão de estoques**, **análise de desempenho logístico** e **criação de dashboards** para tomada de decisão.  
+> ⚙️ Busco transformar **operações em inteligência** por meio de ETL, Python e Power BI.
+
+🔹 Atualmente desenvolvendo o **Coffee Analytics Dashboard** – um projeto completo de ETL, Storytelling e Visualização em Streamlit.  
+🔹 Explorando algoritmos de **otimização e previsão de demanda** para Supply Chain.  
+🔹 Aprimorando conhecimento em **Python, SQL, Power BI, e automação de processos**.  
 
 ---
 
-### 🧮 GitHub Stats
+### ⚙️ Tecnologias & Ferramentas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wagnerflow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A484&icon_color=C4A484"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=wagnerflow&theme=tokyonight&hide_border=true&background=0D1117&ring=C4A484&fire=C4A484&currStreakLabel=C4A484"/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sqlite,mysql,powerbi,excel,streamlit,vscode,github,git" />
 </p>
 
 ---
 
-### 📈 Most Used Languages
+### ☕ Projetos em Destaque
+| 🚀 Projeto | 💬 Descrição | 🧠 Stack |
+|-------------|---------------|-----------|
+| [**Coffee Analytics Dashboard**](https://github.com/wagnerflow/coffee-analytics) | Dashboard interativo de vendas de café com ETL e visualização em Streamlit | Python · Streamlit · Pandas · Matplotlib |
+| [**Dashboard RH Power BI**](https://github.com/wagnerflow/dashboard-rh-powerbi) | Painel de Recursos Humanos com indicadores de desempenho e KPIs | Power BI · Excel · DAX |
+| *(Em desenvolvimento)* Sistema de Redistribuição de Estoques | Algoritmo para balanceamento de produtos entre filiais | Python · SQLite · Lógica Otimizadora |
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wagnerflow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A484&icon_color=C4A484"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wagnerflow&theme=tokyonight&hide_border=true&background=0D1117&ring=C4A484&fire=C4A484&currStreakLabel=C4A484"/>
+</p>
+
+---
+
+### 📈 Linguagens mais usadas
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerflow&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=C4A484" />
 </p>
 
 ---
 
-### 🏅 GitHub Achievements & Badges
+### 🏆 Conquistas & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wagnerflow&theme=onestar&no-bg=true&no-frame=true&row=1&margin-w=10&title=Followers,Commits,Stars,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wagnerflow&theme=onestar&no-bg=true&no-frame=true&row=1&margin-w=15&title=Followers,Commits,Stars,Repositories,PullRequest" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Conecte-se comigo
 <p align="center">
   <a href="https://linkedin.com/in/wagner-j-73a301386">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -76,6 +76,17 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 📘 Roadmap de Aprendizado 2025
+📅 **Objetivos técnicos:**
+- Dominar **Power BI Avançado** (DAX e Modelagem de Dados)  
+- Aprimorar **Python para Supply Chain** (pandas, otimização, automação)  
+- Consolidar projetos **Streamlit + SQL** para portfólio profissional  
+- Iniciar estudos em **Machine Learning aplicado à Logística**
+
+📈 **Missão:** Evoluir de Analista de Dados Jr → Analista Pleno em Supply Chain Analytics  
 
 ---
 
@@ -91,5 +102,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A484,100:2E2E2E&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A484,100:2E2E2E&height=120&section=footer"/>
 </p>
