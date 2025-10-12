@@ -1,31 +1,95 @@
-# 💫 Sobre mim:
-🛠  Atualmente desenvolvendo
-Projetos pessoais de automação e análise de dados, voltados para redistribuição de estoque e otimização de cobertura, utilizando Python, SQL e Power BI.
+<!-- ───────────────────────────────────────────── -->
+<!-- 🎨 DARK DEV ELEGANCE THEME - by Wagner Jesus -->
+<!-- ───────────────────────────────────────────── -->
 
-🤝 Buscando colaborar em
-Iniciativas de tomada de decisão orientada a dados, análise de estoque e automação de processos em ambientes logísticos ou de varejo.
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2E2E,100:C4A484&height=150&section=header&text=WAGNER%20JESUS%20☕&fontColor=C4A484&fontAlignY=35&fontSize=45&desc=Supply%20Chain%20Analytics%20|%20Data%20Automation%20|%20Python%20•%20SQL%20•%20Power%20BI&descAlignY=55&descAlign=50" />
+</p>
 
-🧠 Buscando ajuda com
-Técnicas avançadas de previsão de demanda e integração de machine learning em análises de cadeia de suprimentos.
+---
 
-🌱 Atualmente aprendendo
-Modelagem de dados, design de aplicativos em Streamlit e algoritmos de otimização aplicados à gestão de estoque.
+<h3 align="center">👋 Hey there! Welcome to my space.</h3>
+<h4 align="center">Turning Supply Chain data into intelligent, automated decisions ⚙️</h4>
 
-💬 Pergunte-me sobre
-Supply Chain Analytics, consultas SQL, criação de dashboards e automação de processos com Python.
+---
 
-⚙️ Fato curioso
+### 🧠 About Me
+> 💡 Data-driven professional specialized in **Supply Chain Analytics, Inventory Optimization, and Process Automation**.  
+> 📦 I build **Python and SQL pipelines**, interactive dashboards, and ETL processes for operational intelligence.  
+> ☕ Passionate about connecting **business logic + data storytelling** for measurable results.  
 
-Sou obcecado por eliminar tarefas repetitivas se posso automatizar, automatizo. A eficiência é minha forma de lazer.
+🔹 Currently developing **Coffee Analytics Dashboard** (ETL + Streamlit + Storytelling).  
+🔹 Exploring **machine learning applications** in demand forecasting and inventory balance.  
+🔹 Background in **logistics, retail operations, and supply chain performance.**  
+🔹 Always learning: Python | SQL | Power BI | Streamlit | Optimization.
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wagnerflow&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=wagnerflow&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerflow&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### ⚙️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,mysql,sqlite,powerbi,excel,streamlit,vscode,github,git" />
+</p>
 
-> “Simplicity is the soul of efficiency.”  
-> - *Austin Freeman*
+---
 
+### 📊 Analytics & Projects Showcase
+| 🚀 Project | 🧩 Description | 🧠 Stack |
+|-------------|----------------|-----------|
+| [**Coffee Analytics Dashboard**](https://github.com/wagnerflow/coffee-analytics) | ETL + Streamlit dashboard analyzing coffee sales trends | Python · Streamlit · Pandas · Matplotlib |
+| [**Dashboard RH Power BI**](https://github.com/wagnerflow/dashboard-rh-powerbi) | HR KPIs & analytics dashboard (DAX + Power Query) | Power BI · Excel · DAX |
+| *(Coming Soon)* Inventory Redistribution System | Algorithmic model for balancing stock between branches | Python · SQLite · Optimization |
+
+---
+
+### 🧮 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wagnerflow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4A484&icon_color=C4A484"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=wagnerflow&theme=tokyonight&hide_border=true&background=0D1117&ring=C4A484&fire=C4A484&currStreakLabel=C4A484"/>
+</p>
+
+---
+
+### 📈 Most Used Languages
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerflow&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=C4A484" />
+</p>
+
+---
+
+### 🏅 GitHub Achievements & Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wagnerflow&theme=onestar&no-bg=true&no-frame=true&row=1&margin-w=10&title=Followers,Commits,Stars,Repositories,PullRequest" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/wagner-j-73a301386">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:reallygiveyato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/wagnerflow">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wagnerflow&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Dados sem contexto são apenas números. Com análise, tornam-se decisões.”</i><br>
+  <b>— Wagner Jesus</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A484,100:2E2E2E&height=100&section=footer"/>
+</p>
