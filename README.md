@@ -87,14 +87,6 @@
 
 ---
 
-### 🎯 Roadmap de Evolução 2025  
-📚 **Objetivos Técnicos**  
-- Dominar **Power BI Avançado (DAX + Modelagem de Dados)**  
-- Aprimorar **Python para Supply Chain** (pandas, otimização, automação)  
-- Construir projetos **Streamlit + SQL** com storytelling e KPIs  
-- Iniciar práticas de **Machine Learning aplicado à Logística**
-
-🚀 **Missão:** Evoluir de *Analista de Dados Júnior* → *Analista Pleno em Supply Chain Analytics*  
 🌎 **Visão:** Unir tecnologia, dados e processos para gerar eficiência e inteligência operacional.
 
 ---
